@@ -17,7 +17,7 @@
     "prepublishOnly": "npm run build"
   },
   "files": [
-    "lib"
+    "lib", "src"
   ],
   "repository": {
     "type": "git",
